@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🖥️ I’m currently working at [AmbevTech](https://www.ambevtech.com.br/), subsidiary of AB Inbev, as a Software Developer.
-- 📖 Learning Python and FastAPI.
+- 🖥️ I’m a Software Developer.
+- 📖 Learning Python, RabbitMQ, Docker and FastAPI.
 - 💬 Ask me about: Python Developer :)
 - 😄 Follow me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-michels-rodrigues-3b0846180/)](https://www.linkedin.com/in/thomas-michels-rodrigues-3b0846180/)
 
