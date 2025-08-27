@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 #### Own Services
-![PedidoZ](https://www.pedidoz.online/)
-![Barriil Club](https://www.barriil.club/)
+- [PedidoZ](https://www.pedidoz.online/)
+- [Barriil Club](https://www.barriil.club/)
 
 
 ![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=thomas-michels&show_icons=true&hide_border=true)
