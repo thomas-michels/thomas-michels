@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🖥️ I’m a Senior Software Developer.
-- 🔭 I’m currently working on filot.io, LANSE and pedidoZ
+- 🔭 I’m currently working on filot.io and LANSE
+- 👨‍💼 Founder of pedidoZ and Barriil Club
 - 😄 Follow me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-michels-rodrigues-3b0846180/)](https://www.linkedin.com/in/thomas-michels-rodrigues-3b0846180/)
 
 ### My Tech Stack
@@ -30,6 +31,10 @@ Here are some ideas to get you started:
 #### Tools
 ![VScode](https://img.shields.io/badge/-VisualStudio-purple?style=plastic&logo=vscode)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+
+#### Own Services
+![PedidoZ](https://www.pedidoz.online/)
+![Barriil Club](https://www.barriil.club/)
 
 
 ![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=thomas-michels&show_icons=true&hide_border=true)
